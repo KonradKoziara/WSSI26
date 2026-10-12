@@ -15,4 +15,4 @@
 ### • symboliczne całkowanie funkcji,
 ### • kierowanie samochodem.
 
-#####
+##### Kazde z tych zadan wymaga ludzkiej inteligencji poniewaz do ich wykonania jest potrzebne zrozumienie kazdego z nich i wykozystanie tak zdobytej 
