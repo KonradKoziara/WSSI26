@@ -1,1 +1,1 @@
-
+zwykly tekst 
